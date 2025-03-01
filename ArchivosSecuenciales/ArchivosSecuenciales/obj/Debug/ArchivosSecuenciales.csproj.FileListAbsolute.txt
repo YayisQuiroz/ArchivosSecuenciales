@@ -1,0 +1,13 @@
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\bin\Debug\ArchivosSecuenciales.exe.config
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\bin\Debug\ArchivosSecuenciales.exe
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\bin\Debug\ArchivosSecuenciales.pdb
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.csproj.AssemblyReference.cache
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.Form1.resources
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.Properties.Resources.resources
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.csproj.GenerateResource.cache
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.csproj.CoreCompileInputs.cache
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.exe
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.pdb
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.DialogBoxAltas.resources
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.DialogBoxConsulta.resources
+C:\Users\lizzi\source\repos\ArchivosSecuenciales\ArchivosSecuenciales\obj\Debug\ArchivosSecuenciales.DialogBoxEliminar.resources
